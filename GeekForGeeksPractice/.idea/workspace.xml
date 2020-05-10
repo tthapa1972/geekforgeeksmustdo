@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c92a6d37-3efc-4297-98b1-be55fe365405" name="Default Changelist" comment="" />
+    <list default="true" id="c92a6d37-3efc-4297-98b1-be55fe365405" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/gfg/SubArrayWithGivenSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/SubArrayWithGivenSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/practice/gfg/SubArrayWithGivenSumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/SubArrayWithGivenSumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/practice/gfg/SubArrayWithGivenSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practice/gfg/SubArrayWithGivenSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/practice/gfg/SubArrayWithGivenSumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/practice/gfg/SubArrayWithGivenSumTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +32,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1bforrKEUYI8nvFmKyvcu6Y1o66" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,8 +40,25 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="JUnit.SubArrayWithGivenSumTest.test2">
+  <component name="RunManager" selected="JUnit.SubArrayWithGivenSumTest">
+    <configuration name="SubArrayWithGivenSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GeekForGeeksPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.gfg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practice.gfg" />
+      <option name="MAIN_CLASS_NAME" value="practice.gfg.SubArrayWithGivenSumTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SubArrayWithGivenSumTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GeekForGeeksPractice" />
       <extension name="coverage">
@@ -63,8 +91,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SubArrayWithGivenSumTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GeekForGeeksPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.gfg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practice.gfg" />
+      <option name="MAIN_CLASS_NAME" value="practice.gfg.SubArrayWithGivenSumTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubArrayWithGivenSumTest.test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GeekForGeeksPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.gfg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practice.gfg" />
+      <option name="MAIN_CLASS_NAME" value="practice.gfg.SubArrayWithGivenSumTest" />
+      <option name="METHOD_NAME" value="test7" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SubArrayWithGivenSumTest" />
+        <item itemvalue="JUnit.SubArrayWithGivenSumTest.test7" />
+        <item itemvalue="JUnit.SubArrayWithGivenSumTest.test3" />
         <item itemvalue="JUnit.SubArrayWithGivenSumTest.test2" />
         <item itemvalue="JUnit.SubArrayWithGivenSumTest.test1" />
       </list>
@@ -84,46 +147,51 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1478" height="208" key="GridCell.Tab.0.bottom" timestamp="1589127025043">
+    <state width="1478" height="208" key="GridCell.Tab.0.bottom" timestamp="1589138682259">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589127025043" />
-    <state width="1478" height="208" key="GridCell.Tab.0.center" timestamp="1589127025042">
+    <state width="1478" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589138682259" />
+    <state width="1478" height="208" key="GridCell.Tab.0.center" timestamp="1589138682259">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589127025042" />
-    <state width="1478" height="208" key="GridCell.Tab.0.left" timestamp="1589127025042">
+    <state width="1478" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589138682259" />
+    <state width="1478" height="208" key="GridCell.Tab.0.left" timestamp="1589138682259">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589127025042" />
-    <state width="1478" height="208" key="GridCell.Tab.0.right" timestamp="1589127025042">
+    <state width="1478" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589138682259" />
+    <state width="1478" height="208" key="GridCell.Tab.0.right" timestamp="1589138682259">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589127025042" />
-    <state width="1478" height="258" key="GridCell.Tab.1.bottom" timestamp="1589127024079">
+    <state width="1478" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589138682259" />
+    <state width="1478" height="258" key="GridCell.Tab.1.bottom" timestamp="1589138669204">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589127024079" />
-    <state width="1478" height="258" key="GridCell.Tab.1.center" timestamp="1589127024078">
+    <state width="1478" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589138669204" />
+    <state width="1478" height="258" key="GridCell.Tab.1.center" timestamp="1589138669204">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589127024078" />
-    <state width="1478" height="258" key="GridCell.Tab.1.left" timestamp="1589127024078">
+    <state width="1478" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589138669204" />
+    <state width="1478" height="258" key="GridCell.Tab.1.left" timestamp="1589138669204">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589127024078" />
-    <state width="1478" height="258" key="GridCell.Tab.1.right" timestamp="1589127024078">
+    <state width="1478" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589138669204" />
+    <state width="1478" height="258" key="GridCell.Tab.1.right" timestamp="1589138669204">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589127024078" />
+    <state width="1478" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589138669204" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/practice/gfg/SubArrayWithGivenSum.java</url>
-          <line>44</line>
+          <line>47</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/practice/gfg/SubArrayWithGivenSum.java</url>
+          <line>124</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

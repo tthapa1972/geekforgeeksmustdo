@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c92a6d37-3efc-4297-98b1-be55fe365405" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/CountTheTriplets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/CountTheTripletsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/gfg/CountTheTriplets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/CountTheTriplets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/practice/gfg/CountTheTripletsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/CountTheTripletsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,7 +195,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/practice/gfg/CountTheTriplets.java</url>
-          <line>6</line>
+          <line>35</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>

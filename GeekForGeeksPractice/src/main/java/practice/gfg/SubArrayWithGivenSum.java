@@ -29,6 +29,7 @@ Testcase1: sum of elements from 2nd position to 4th position is 12
 Testcase2: sum of elements from 1st position to 5th position is 15
 * */
 
+import java.util.Comparator;
 import java.util.HashMap;
 import java.util.Map;
 

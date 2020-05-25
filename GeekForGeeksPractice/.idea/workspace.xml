@@ -2,29 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c92a6d37-3efc-4297-98b1-be55fe365405" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/geekforgeeksmustdo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/AVLTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/CeilWithBinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/InversionOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/KthSmallestElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/MinHeapImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/NoOfPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/ReverseArrayInGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/SquareRootWithBinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/CeilWithBinarySearchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/InversionOfArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/KthSmallestTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/NoOfPairsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/ReverseArrayInGroupTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/SquareRootWithBinarySearchTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/ArrayZigZagFashion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/ChoclateDistributionProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/ElementWithSmallerLeftAndLargerRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/LargestNumberFromArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/PrintSprintMatrixSpirally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/PythogoreanTriplet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/StockBuyAndSell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/TrappingRainWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/ArrayZigZagFashionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/ChoclateDistributionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/ElementWithSmallerLeftAndLargerRightTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/LargestNumberFromArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/PythagoreanTripletTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/StockBuyAndSellTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/TrappingWaterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice/gfg/SubArrayWithGivenSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/SubArrayWithGivenSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/practice/gfg/SubArrayWithGivenSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practice/gfg/SubArrayWithGivenSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/practice/gfg/SubArrayWithGivenSumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/practice/gfg/SubArrayWithGivenSumTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,9 +58,14 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.MinHeapImplementation">
-    <configuration name="MinHeapImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.gfg.MinHeapImplementation" />
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="practice.gfg" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LargestNumberFromArrayTest">
+    <configuration name="PrintSprintMatrixSpirally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.gfg.PrintSprintMatrixSpirally" />
       <module name="GeekForGeeksPractice" />
       <extension name="coverage">
         <pattern>
@@ -78,7 +77,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InversionOfArrayTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ArrayZigZagFashionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GeekForGeeksPractice" />
       <extension name="coverage">
         <pattern>
@@ -87,14 +86,29 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="practice.gfg" />
-      <option name="MAIN_CLASS_NAME" value="practice.gfg.InversionOfArrayTest" />
-      <option name="METHOD_NAME" value="test3" />
+      <option name="MAIN_CLASS_NAME" value="practice.gfg.ArrayZigZagFashionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayZigZagFashionTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GeekForGeeksPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.gfg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practice.gfg" />
+      <option name="MAIN_CLASS_NAME" value="practice.gfg.ArrayZigZagFashionTest" />
+      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KthSmallestTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LargestNumberFromArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GeekForGeeksPractice" />
       <extension name="coverage">
         <pattern>
@@ -103,50 +117,35 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="practice.gfg" />
-      <option name="MAIN_CLASS_NAME" value="practice.gfg.KthSmallestTest" />
+      <option name="MAIN_CLASS_NAME" value="practice.gfg.LargestNumberFromArrayTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LargestNumberFromArrayTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GeekForGeeksPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.gfg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practice.gfg" />
+      <option name="MAIN_CLASS_NAME" value="practice.gfg.LargestNumberFromArrayTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseArrayInGroupTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="GeekForGeeksPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.gfg.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="practice.gfg" />
-      <option name="MAIN_CLASS_NAME" value="practice.gfg.ReverseArrayInGroupTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="practice.gfg in GeekForGeeksPractice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="GeekForGeeksPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.gfg.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="practice.gfg" />
-      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MinHeapImplementation" />
-        <item itemvalue="JUnit.KthSmallestTest.test1" />
-        <item itemvalue="JUnit.practice.gfg in GeekForGeeksPractice" />
-        <item itemvalue="JUnit.ReverseArrayInGroupTest.test1" />
-        <item itemvalue="JUnit.InversionOfArrayTest.test3" />
+        <item itemvalue="JUnit.LargestNumberFromArrayTest" />
+        <item itemvalue="JUnit.LargestNumberFromArrayTest.test1" />
+        <item itemvalue="Application.PrintSprintMatrixSpirally" />
+        <item itemvalue="JUnit.ArrayZigZagFashionTest" />
+        <item itemvalue="JUnit.ArrayZigZagFashionTest.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -168,26 +167,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1589960803089" />
+    <state x="566" y="272" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590415821702">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="272" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1590415821702" />
     <state width="422" height="466" key="DebuggerActiveHint" timestamp="1590356379580">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="422" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1590356379580" />
-    <state width="1478" height="208" key="GridCell.Tab.0.bottom" timestamp="1590356731609">
+    <state width="1478" height="208" key="GridCell.Tab.0.bottom" timestamp="1590431373806">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590356731609" />
-    <state width="1478" height="208" key="GridCell.Tab.0.center" timestamp="1590356731609">
+    <state width="1478" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590431373806" />
+    <state width="1478" height="208" key="GridCell.Tab.0.center" timestamp="1590431373805">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590356731609" />
-    <state width="1478" height="208" key="GridCell.Tab.0.left" timestamp="1590356731609">
+    <state width="1478" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590431373805" />
+    <state width="1478" height="208" key="GridCell.Tab.0.left" timestamp="1590431373805">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590356731609" />
-    <state width="1478" height="208" key="GridCell.Tab.0.right" timestamp="1590356731609">
+    <state width="1478" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590431373805" />
+    <state width="1478" height="208" key="GridCell.Tab.0.right" timestamp="1590431373806">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590356731609" />
+    <state width="1478" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590431373806" />
     <state width="1478" height="258" key="GridCell.Tab.1.bottom" timestamp="1590356652013">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -208,18 +211,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589868797669" />
-    <state x="490" y="157" width="540" height="524" key="StructurePopup" timestamp="1589747190290">
+    <state x="490" y="157" width="540" height="524" key="StructurePopup" timestamp="1590412638024">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="490" y="157" width="540" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1589747190290" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1589191025103">
+    <state x="490" y="157" width="540" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1590412638024" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1590384412562">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589191025103" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1589747177236">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590384412562" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1590412635618">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1589747177236" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1590412635618" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -2,48 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c92a6d37-3efc-4297-98b1-be55fe365405" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/array/PermutationsOfString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/string/ReverseWordsInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/array/PermutationsOfStringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/array/ReverseWordsInStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/array/FormAPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/array/LargestWindowWithUniqueCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/array/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/array/LongestPalindromeInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/array/RemoveAdjacentsRecursively.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/array/FormAPalindromeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/array/LargestWindowWithUniqueCharacterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/array/LongestCommonPrefixTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/array/LongestPalindromeInStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/array/RemoveAdjacentsRecursivelyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice/gfg/AVLTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/array/AVLTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice/gfg/ArrayZigZagFashion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/array/ArrayZigZagFashion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice/gfg/CeilWithBinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/array/CeilWithBinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice/gfg/ChoclateDistributionProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/array/ChoclateDistributionProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice/gfg/CountTheTriplets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/array/CountTheTriplets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice/gfg/ElementWithSmallerLeftAndLargerRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/array/ElementWithSmallerLeftAndLargerRight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice/gfg/InversionOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/array/InversionOfArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice/gfg/KadanesAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/array/KadanesAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice/gfg/KthSmallestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/array/KthSmallestElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice/gfg/LargestNumberFromArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/array/LargestNumberFromArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice/gfg/MinHeapImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/array/MinHeapImplementation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice/gfg/NoOfPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/array/NoOfPairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice/gfg/PrintSprintMatrixSpirally.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/array/PrintSprintMatrixSpirally.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice/gfg/PythogoreanTriplet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/array/PythogoreanTriplet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice/gfg/ReverseArrayInGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/array/ReverseArrayInGroup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice/gfg/SquareRootWithBinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/array/SquareRootWithBinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice/gfg/StockBuyAndSell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/array/StockBuyAndSell.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice/gfg/SubArrayWithGivenSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/array/SubArrayWithGivenSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice/gfg/TrappingRainWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/array/TrappingRainWater.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/practice/gfg/ArrayZigZagFashionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/array/ArrayZigZagFashionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/practice/gfg/CeilWithBinarySearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/array/CeilWithBinarySearchTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/practice/gfg/ChoclateDistributionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/array/ChoclateDistributionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/practice/gfg/CountTheTripletsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/array/CountTheTripletsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/practice/gfg/ElementWithSmallerLeftAndLargerRightTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/array/ElementWithSmallerLeftAndLargerRightTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/practice/gfg/InversionOfArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/array/InversionOfArrayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/practice/gfg/KadanesAlgorithmTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/array/KadanesAlgorithmTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/practice/gfg/KthSmallestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/array/KthSmallestTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/practice/gfg/LargestNumberFromArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/array/LargestNumberFromArrayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/practice/gfg/NoOfPairsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/array/NoOfPairsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/practice/gfg/PythagoreanTripletTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/array/PythagoreanTripletTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/practice/gfg/ReverseArrayInGroupTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/array/ReverseArrayInGroupTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/practice/gfg/SquareRootWithBinarySearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/array/SquareRootWithBinarySearchTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/practice/gfg/StockBuyAndSellTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/array/StockBuyAndSellTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/practice/gfg/SubArrayWithGivenSumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/array/SubArrayWithGivenSumTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/practice/gfg/TrappingWaterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/array/TrappingWaterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/practice/gfg/SubArrayWithGivenSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/practice/gfg/SubArrayWithGivenSumTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,23 +57,8 @@
       <recent name="practice.gfg" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PermutationsOfStringTest.test2">
-    <configuration name="LargestNumberFromArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="GeekForGeeksPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.gfg.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="practice.gfg" />
-      <option name="MAIN_CLASS_NAME" value="practice.gfg.LargestNumberFromArrayTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PermutationsOfStringTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.practice.gfg.array in GeekForGeeksPractice">
+    <configuration name="LargestWindowWithUniqueCharacterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GeekForGeeksPractice" />
       <extension name="coverage">
         <pattern>
@@ -113,14 +67,29 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="practice.gfg.array" />
-      <option name="MAIN_CLASS_NAME" value="practice.gfg.array.PermutationsOfStringTest" />
+      <option name="MAIN_CLASS_NAME" value="practice.gfg.array.LargestWindowWithUniqueCharacterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LargestWindowWithUniqueCharacterTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GeekForGeeksPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.gfg.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practice.gfg.array" />
+      <option name="MAIN_CLASS_NAME" value="practice.gfg.array.LargestWindowWithUniqueCharacterTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PermutationsOfStringTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LongestCommonPrefixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GeekForGeeksPractice" />
       <extension name="coverage">
         <pattern>
@@ -129,29 +98,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="practice.gfg.array" />
-      <option name="MAIN_CLASS_NAME" value="practice.gfg.array.PermutationsOfStringTest" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseWordsInStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="GeekForGeeksPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.gfg.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="practice.gfg.array" />
-      <option name="MAIN_CLASS_NAME" value="practice.gfg.array.ReverseWordsInStringTest" />
+      <option name="MAIN_CLASS_NAME" value="practice.gfg.array.LongestCommonPrefixTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseWordsInStringTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LongestCommonPrefixTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GeekForGeeksPractice" />
       <extension name="coverage">
         <pattern>
@@ -160,20 +113,34 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="practice.gfg.array" />
-      <option name="MAIN_CLASS_NAME" value="practice.gfg.array.ReverseWordsInStringTest" />
+      <option name="MAIN_CLASS_NAME" value="practice.gfg.array.LongestCommonPrefixTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practice.gfg.array in GeekForGeeksPractice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GeekForGeeksPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.gfg.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practice.gfg.array" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PermutationsOfStringTest.test2" />
-        <item itemvalue="JUnit.PermutationsOfStringTest.test1" />
-        <item itemvalue="JUnit.ReverseWordsInStringTest" />
-        <item itemvalue="JUnit.ReverseWordsInStringTest.test1" />
-        <item itemvalue="JUnit.LargestNumberFromArrayTest" />
+        <item itemvalue="JUnit.practice.gfg.array in GeekForGeeksPractice" />
+        <item itemvalue="JUnit.LongestCommonPrefixTest" />
+        <item itemvalue="JUnit.LongestCommonPrefixTest.test1" />
+        <item itemvalue="JUnit.LargestWindowWithUniqueCharacterTest" />
+        <item itemvalue="JUnit.LargestWindowWithUniqueCharacterTest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -199,62 +166,62 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="566" y="272" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1590415821702" />
-    <state width="423" height="466" key="DebuggerActiveHint" timestamp="1590873870792">
+    <state width="423" height="466" key="DebuggerActiveHint" timestamp="1591242410459">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="423" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1590873870792" />
+    <state width="423" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1591242410459" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1590479291165">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590479291165" />
-    <state width="1478" height="208" key="GridCell.Tab.0.bottom" timestamp="1590875963459">
+    <state width="1478" height="204" key="GridCell.Tab.0.bottom" timestamp="1591384168565">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590875963459" />
-    <state width="1478" height="208" key="GridCell.Tab.0.center" timestamp="1590875963458">
+    <state width="1478" height="204" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591384168565" />
+    <state width="1478" height="204" key="GridCell.Tab.0.center" timestamp="1591384168564">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590875963458" />
-    <state width="1478" height="208" key="GridCell.Tab.0.left" timestamp="1590875963458">
+    <state width="1478" height="204" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591384168564" />
+    <state width="1478" height="204" key="GridCell.Tab.0.left" timestamp="1591384168564">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590875963458" />
-    <state width="1478" height="208" key="GridCell.Tab.0.right" timestamp="1590875963458">
+    <state width="1478" height="204" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591384168564" />
+    <state width="1478" height="204" key="GridCell.Tab.0.right" timestamp="1591384168565">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590875963458" />
-    <state width="1478" height="258" key="GridCell.Tab.1.bottom" timestamp="1590874035651">
+    <state width="1478" height="204" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591384168565" />
+    <state width="1478" height="257" key="GridCell.Tab.1.bottom" timestamp="1591242556001">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590874035651" />
-    <state width="1478" height="258" key="GridCell.Tab.1.center" timestamp="1590874035651">
+    <state width="1478" height="257" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591242556001" />
+    <state width="1478" height="257" key="GridCell.Tab.1.center" timestamp="1591242556001">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590874035651" />
-    <state width="1478" height="258" key="GridCell.Tab.1.left" timestamp="1590874035650">
+    <state width="1478" height="257" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591242556001" />
+    <state width="1478" height="257" key="GridCell.Tab.1.left" timestamp="1591242556000">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590874035650" />
-    <state width="1478" height="258" key="GridCell.Tab.1.right" timestamp="1590874035651">
+    <state width="1478" height="257" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591242556000" />
+    <state width="1478" height="257" key="GridCell.Tab.1.right" timestamp="1591242556001">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590874035651" />
+    <state width="1478" height="257" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591242556001" />
     <state x="249" y="0" key="SettingsEditor" timestamp="1589868797669">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589868797669" />
-    <state x="490" y="157" width="540" height="524" key="StructurePopup" timestamp="1590412638024">
+    <state x="490" y="157" width="540" height="524" key="StructurePopup" timestamp="1591383716580">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="490" y="157" width="540" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1590412638024" />
+    <state x="490" y="157" width="540" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1591383716580" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1590384412562">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590384412562" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1590412635618">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1591121474369">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1590412635618" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1591121474369" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -333,6 +300,31 @@
           <url>file://$PROJECT_DIR$/src/main/java/practice/gfg/string/ReverseWordsInString.java</url>
           <line>30</line>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/practice/gfg/array/LongestPalindromeInString.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/practice/gfg/array/RemoveAdjacentsRecursively.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/practice/gfg/array/FormAPalindrome.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/practice/gfg/array/FormAPalindrome.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/practice/gfg/array/FormAPalindrome.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

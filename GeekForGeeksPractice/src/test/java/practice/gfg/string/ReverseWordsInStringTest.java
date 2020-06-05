@@ -1,4 +1,4 @@
-package practice.gfg.array;
+package practice.gfg.string;
 
 import org.junit.Assert;
 import org.junit.Before;

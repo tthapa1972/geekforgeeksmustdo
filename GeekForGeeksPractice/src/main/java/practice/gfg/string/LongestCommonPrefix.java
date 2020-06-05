@@ -1,4 +1,4 @@
-package practice.gfg.array;
+package practice.gfg.string;
 
 import java.util.Arrays;
 

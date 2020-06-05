@@ -1,8 +1,9 @@
-package practice.gfg.array;
+package practice.gfg.string;
 
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
+import practice.gfg.string.LongestPalindromeInString;
 
 public class LongestPalindromeInStringTest {
 

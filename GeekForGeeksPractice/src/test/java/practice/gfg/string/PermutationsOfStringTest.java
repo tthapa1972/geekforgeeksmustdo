@@ -1,11 +1,10 @@
-package practice.gfg.array;
+package practice.gfg.string;
 
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
+import practice.gfg.string.PermutationsOfString;
 
-import java.lang.reflect.Array;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 

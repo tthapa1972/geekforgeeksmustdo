@@ -1,5 +1,7 @@
 package practice.gfg.array;
 
+import java.util.Arrays;
+
 public class LongestCommonPrefix {
 
     private static final int NO_OF_CHARACTERS = 26;
@@ -79,6 +81,14 @@ public class LongestCommonPrefix {
         return prefix;
 
     }
+
+    /*
+    * Time Complexity : Inserting all the words in the trie takes O(MN) time and performing a walk on the trie takes O(M) time, where-
+
+N = Number of strings
+M = Length of the largest string
+Auxiliary Space: To store all the strings we need to allocate O(26*M*N) ~ O(MN) space for the Trie.
+    * */
 
     public String lcpTrie(String []array){
 
@@ -290,5 +300,39 @@ Auxiliary Space: To store the longest prefix string we are allocating space whic
         }
 
         return prefix;
+    }
+
+    /*
+    Time Complexity: O(MAX * n * log n ) where n is the number of strings in the array and MAX is maximum number of characters in any string. Please note that comparison of two strings would take at most O(MAX) time and for sorting n strings, we would need O(MAX * n * log n ) time.
+    * */
+
+    public String lcpSorting(String []array){
+
+        int size = array.length;
+
+        if(size == 0){
+            return "";
+        }
+
+        if(size == 1){
+            return array[0];
+        }
+
+        Arrays.sort(array);
+
+        int min = Math.min(array[0].length(), array[size-1].length());
+
+        String prefix = "";
+
+        for(int i = 0;i < min;i++){
+            if(array[0].charAt(i) == array[size - 1].charAt(i)){
+                prefix += (array[0].charAt(i));
+            }else {
+                break;
+            }
+        }
+
+        return prefix;
+
     }
 }

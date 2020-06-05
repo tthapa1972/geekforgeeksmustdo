@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c92a6d37-3efc-4297-98b1-be55fe365405" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/array/FormAPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/array/LargestWindowWithUniqueCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/array/LongestCommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/array/LongestPalindromeInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/array/RemoveAdjacentsRecursively.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/array/FormAPalindromeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/array/LargestWindowWithUniqueCharacterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/array/LongestCommonPrefixTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/array/LongestPalindromeInStringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/array/RemoveAdjacentsRecursivelyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/gfg/array/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/array/LongestCommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/practice/gfg/array/LongestCommonPrefixTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/array/LongestCommonPrefixTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +49,7 @@
       <recent name="practice.gfg" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.practice.gfg.array in GeekForGeeksPractice">
+  <component name="RunManager" selected="JUnit.LongestCommonPrefixTest">
     <configuration name="LargestWindowWithUniqueCharacterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GeekForGeeksPractice" />
       <extension name="coverage">
@@ -136,8 +128,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.practice.gfg.array in GeekForGeeksPractice" />
         <item itemvalue="JUnit.LongestCommonPrefixTest" />
+        <item itemvalue="JUnit.practice.gfg.array in GeekForGeeksPractice" />
         <item itemvalue="JUnit.LongestCommonPrefixTest.test1" />
         <item itemvalue="JUnit.LargestWindowWithUniqueCharacterTest" />
         <item itemvalue="JUnit.LargestWindowWithUniqueCharacterTest.test1" />
@@ -174,22 +166,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590479291165" />
-    <state width="1478" height="204" key="GridCell.Tab.0.bottom" timestamp="1591384168565">
+    <state width="1478" height="204" key="GridCell.Tab.0.bottom" timestamp="1591385495542">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="204" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591384168565" />
-    <state width="1478" height="204" key="GridCell.Tab.0.center" timestamp="1591384168564">
+    <state width="1478" height="204" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591385495542" />
+    <state width="1478" height="204" key="GridCell.Tab.0.center" timestamp="1591385495536">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="204" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591384168564" />
-    <state width="1478" height="204" key="GridCell.Tab.0.left" timestamp="1591384168564">
+    <state width="1478" height="204" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591385495536" />
+    <state width="1478" height="204" key="GridCell.Tab.0.left" timestamp="1591385495477">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="204" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591384168564" />
-    <state width="1478" height="204" key="GridCell.Tab.0.right" timestamp="1591384168565">
+    <state width="1478" height="204" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591385495477" />
+    <state width="1478" height="204" key="GridCell.Tab.0.right" timestamp="1591385495537">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="204" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591384168565" />
+    <state width="1478" height="204" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591385495537" />
     <state width="1478" height="257" key="GridCell.Tab.1.bottom" timestamp="1591242556001">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

@@ -98,4 +98,21 @@ public class LongestCommonPrefixTest {
         Assert.assertEquals("ap", longestCommonPrefix.lcpTrie(arr));
     }
 
+    @Test
+    public void test11(){
+
+        String arr[] = {"geeksforgeeks", "geeks",
+                "geek", "geezer"};
+
+        Assert.assertEquals("gee", longestCommonPrefix.lcpSorting(arr));
+    }
+
+    @Test
+    public void test12(){
+
+        String arr[] = {"apple","ape","april"};
+
+        Assert.assertEquals("ap", longestCommonPrefix.lcpSorting(arr));
+    }
+
 }

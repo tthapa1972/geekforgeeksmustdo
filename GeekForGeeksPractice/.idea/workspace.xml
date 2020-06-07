@@ -2,20 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c92a6d37-3efc-4297-98b1-be55fe365405" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/linkedlist/DetectLoopInLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/linkedlist/IntersectionPointOfLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/linkedlist/MiddleElementInLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/linkedlist/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/linkedlist/ReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/linkedlist/ReverseLinkedListInGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/linkedlist/RotateLinkedListByK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/linkedlist/IntersectionPointOfLinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/linkedlist/MiddleElementInLinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/linkedlist/ReverseLinkedListInGroupTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/linkedlist/ReverseLinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/linkedlist/RotateLinkedListByKTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/linkedlist/AddTwoLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/linkedlist/FlattenTheLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/gfg/linkedlist/LinkedListPalindromeCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/linkedlist/AddTwoLinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/linkedlist/LinkedListPalindromeCheckTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/practice/gfg/string/FormAPalindromeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/practice/gfg/string/FormAPalindromeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,8 +57,9 @@
       <recent name="practice.gfg.linkedlist" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.IntersectionPointOfLinkedListTest">
-    <configuration name="IntersectionPointOfLinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.LinkedListPalindromeCheckTest">
+    <configuration name="FlattenTheLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.gfg.linkedlist.FlattenTheLinkedList" />
       <module name="GeekForGeeksPractice" />
       <extension name="coverage">
         <pattern>
@@ -74,14 +67,11 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="practice.gfg.linkedlist" />
-      <option name="MAIN_CLASS_NAME" value="practice.gfg.linkedlist.IntersectionPointOfLinkedListTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntersectionPointOfLinkedListTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AddTwoLinkedListTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GeekForGeeksPractice" />
       <extension name="coverage">
         <pattern>
@@ -90,14 +80,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="practice.gfg.linkedlist" />
-      <option name="MAIN_CLASS_NAME" value="practice.gfg.linkedlist.IntersectionPointOfLinkedListTest" />
+      <option name="MAIN_CLASS_NAME" value="practice.gfg.linkedlist.AddTwoLinkedListTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseLinkedListInGroupTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LinkedListPalindromeCheckTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GeekForGeeksPractice" />
       <extension name="coverage">
         <pattern>
@@ -106,13 +96,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="practice.gfg.linkedlist" />
-      <option name="MAIN_CLASS_NAME" value="practice.gfg.linkedlist.ReverseLinkedListInGroupTest" />
+      <option name="MAIN_CLASS_NAME" value="practice.gfg.linkedlist.LinkedListPalindromeCheckTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseLinkedListInGroupTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LinkedListPalindromeCheckTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GeekForGeeksPractice" />
       <extension name="coverage">
         <pattern>
@@ -121,14 +111,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="practice.gfg.linkedlist" />
-      <option name="MAIN_CLASS_NAME" value="practice.gfg.linkedlist.ReverseLinkedListInGroupTest" />
+      <option name="MAIN_CLASS_NAME" value="practice.gfg.linkedlist.LinkedListPalindromeCheckTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseLinkedListInGroupTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LinkedListPalindromeCheckTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GeekForGeeksPractice" />
       <extension name="coverage">
         <pattern>
@@ -137,8 +127,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="practice.gfg.linkedlist" />
-      <option name="MAIN_CLASS_NAME" value="practice.gfg.linkedlist.ReverseLinkedListInGroupTest" />
-      <option name="METHOD_NAME" value="test2" />
+      <option name="MAIN_CLASS_NAME" value="practice.gfg.linkedlist.LinkedListPalindromeCheckTest" />
+      <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -146,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.IntersectionPointOfLinkedListTest" />
-        <item itemvalue="JUnit.IntersectionPointOfLinkedListTest.test1" />
-        <item itemvalue="JUnit.ReverseLinkedListInGroupTest" />
-        <item itemvalue="JUnit.ReverseLinkedListInGroupTest.test2" />
-        <item itemvalue="JUnit.ReverseLinkedListInGroupTest.test1" />
+        <item itemvalue="JUnit.LinkedListPalindromeCheckTest" />
+        <item itemvalue="JUnit.LinkedListPalindromeCheckTest.test3" />
+        <item itemvalue="JUnit.LinkedListPalindromeCheckTest.test1" />
+        <item itemvalue="JUnit.AddTwoLinkedListTest.test1" />
+        <item itemvalue="Application.FlattenTheLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -176,46 +166,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="566" y="272" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1591440992396" />
-    <state width="423" height="466" key="DebuggerActiveHint" timestamp="1591453111771">
+    <state width="436" height="466" key="DebuggerActiveHint" timestamp="1591523223549">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="423" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1591453111771" />
+    <state width="436" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1591523223549" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1590479291165">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590479291165" />
-    <state width="1478" height="204" key="GridCell.Tab.0.bottom" timestamp="1591456369934">
+    <state width="1478" height="257" key="GridCell.Tab.0.bottom" timestamp="1591523113680">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="204" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591456369934" />
-    <state width="1478" height="204" key="GridCell.Tab.0.center" timestamp="1591456369934">
+    <state width="1478" height="257" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591523113680" />
+    <state width="1478" height="257" key="GridCell.Tab.0.center" timestamp="1591523113680">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="204" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591456369934" />
-    <state width="1478" height="204" key="GridCell.Tab.0.left" timestamp="1591456369933">
+    <state width="1478" height="257" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591523113680" />
+    <state width="1478" height="257" key="GridCell.Tab.0.left" timestamp="1591523113680">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="204" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591456369933" />
-    <state width="1478" height="204" key="GridCell.Tab.0.right" timestamp="1591456369934">
+    <state width="1478" height="257" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591523113680" />
+    <state width="1478" height="257" key="GridCell.Tab.0.right" timestamp="1591523113680">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="204" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591456369934" />
-    <state width="1478" height="257" key="GridCell.Tab.1.bottom" timestamp="1591453137069">
+    <state width="1478" height="257" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591523113680" />
+    <state width="1478" height="257" key="GridCell.Tab.1.bottom" timestamp="1591523115096">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="257" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591453137069" />
-    <state width="1478" height="257" key="GridCell.Tab.1.center" timestamp="1591453137069">
+    <state width="1478" height="257" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591523115096" />
+    <state width="1478" height="257" key="GridCell.Tab.1.center" timestamp="1591523115096">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="257" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591453137069" />
-    <state width="1478" height="257" key="GridCell.Tab.1.left" timestamp="1591453137069">
+    <state width="1478" height="257" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591523115096" />
+    <state width="1478" height="257" key="GridCell.Tab.1.left" timestamp="1591523115096">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="257" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591453137069" />
-    <state width="1478" height="257" key="GridCell.Tab.1.right" timestamp="1591453137069">
+    <state width="1478" height="257" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591523115095" />
+    <state width="1478" height="257" key="GridCell.Tab.1.right" timestamp="1591523115096">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="257" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591453137069" />
+    <state width="1478" height="257" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591523115096" />
     <state x="249" y="0" key="SettingsEditor" timestamp="1589868797669">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -350,6 +340,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/practice/gfg/linkedlist/ReverseLinkedListInGroup.java</url>
           <line>15</line>
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/practice/gfg/linkedlist/AddTwoLinkedList.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/practice/gfg/linkedlist/LinkedListPalindromeCheck.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/test/java/practice/gfg/linkedlist/RotateLinkedListByKTest.java</url>
